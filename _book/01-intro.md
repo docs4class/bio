@@ -1,11 +1,46 @@
-# Hello bookdown 
 
-All chapters start with a first-level heading followed by your chapter title, like the line above. There should be only one first-level heading (`#`) per .Rmd file.
+# Motivation
 
-## A section
+::: {.rmdimportant}
 
-All chapter sections start with a second-level (`##`) or higher heading followed by your section title, like the sections above and below here. You can have as many as you want within a chapter.
+A COVID Classroom
 
-### An unnumbered section {-}
+:::
 
-Chapters and sections are numbered by default. To un-number a heading, add a `{.unnumbered}` or the shorter `{-}` at the end of the heading, like in this section.
+<img src="_images/meredith.jpg" style="display: block; margin: auto;" />
+
+::: {.rmdimportant}
+
+A Learning Management System Nightmare
+
+:::
+
+<img src="_images/bryce.jpg" style="display: block; margin: auto;" />
+
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+<img src="_images/marine.png" style="display: block; margin: auto;" />
+
+
+
+
+Date | Topic | 				
+|:-------|:------			
+| 	Wednesday, February 16, 2022	| 	SEDSI in Jacksonville	| 
+| 	Thursday, February 17, 2022	| 	Present at 2:45 PM	| 
+| 	Friday, February 18, 2022	| 	Celebrate a successful DASI Session	| 
+
+
+# Real life example
+
+::: {.rmdimportant}
+
+It's nice to know exactly what you did when your original data requires wrangling.
+
+:::

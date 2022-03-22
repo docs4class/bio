@@ -33,14 +33,53 @@ Concise, Precisely Organized, Frequently Revised Assignments and Schedules
 knitr::include_graphics(("_images/marine.png"))
 ```
 
+:::
 
 
+```{r echo=FALSE, fig.align = 'center'}
+knitr::include_graphics(("_images/benefits.png"))
+```
 
-Date | Topic | 				
-|:-------|:------			
-| 	Wednesday, February 16, 2022	| 	SEDSI in Jacksonville	| 
-| 	Thursday, February 17, 2022	| 	Present at 2:45 PM	| 
-| 	Friday, February 18, 2022	| 	Celebrate a successful DASI Session	| 
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+```{r echo=FALSE, fig.align = 'center'}
+knitr::include_graphics(("_images/brexit.png"))
+```
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+```{r echo=FALSE, fig.align = 'center'}
+knitr::include_graphics(("_images/big.jpg"))
+```
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+```{r echo=FALSE, fig.align = 'center'}
+knitr::include_graphics(("_images/chinese.jpg"))
+```
+
+
 
 
 # Real life example

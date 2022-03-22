@@ -27,14 +27,45 @@ Concise, Precisely Organized, Frequently Revised Assignments and Schedules
 
 <img src="_images/marine.png" style="display: block; margin: auto;" />
 
+:::
 
 
+<img src="_images/benefits.png" style="display: block; margin: auto;" />
 
-Date | Topic | 				
-|:-------|:------			
-| 	Wednesday, February 16, 2022	| 	SEDSI in Jacksonville	| 
-| 	Thursday, February 17, 2022	| 	Present at 2:45 PM	| 
-| 	Friday, February 18, 2022	| 	Celebrate a successful DASI Session	| 
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+<img src="_images/brexit.png" style="display: block; margin: auto;" />
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+<img src="_images/big.jpg" style="display: block; margin: auto;" />
+
+;:: {.rmdimportant}
+
+Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+:::
+
+
+<img src="_images/chinese.jpg" style="display: block; margin: auto;" />
+
+
 
 
 # Real life example

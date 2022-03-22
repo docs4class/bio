@@ -25,7 +25,7 @@ knitr::include_graphics(("_images/bryce.jpg"))
 
 # Real life case study
 
-;:: {.rmdimportant}
+::: {.rmdimportant}
 
 Living it out.
 
@@ -39,7 +39,7 @@ knitr::include_graphics(("_images/marine.png"))
 
 # The importance of science, rigor
 
-;:: {.rmdimportant}
+::: {.rmdimportant}
 
 Study something you love.  And that tastes great.
 

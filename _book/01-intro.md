@@ -21,7 +21,7 @@ Bryce Stewart, PhD, University of York
 
 # Real life case study
 
-;:: {.rmdimportant}
+::: {.rmdimportant}
 
 Living it out.
 
@@ -33,7 +33,7 @@ Living it out.
 
 # The importance of science, rigor
 
-;:: {.rmdimportant}
+::: {.rmdimportant}
 
 Study something you love.  And that tastes great.
 

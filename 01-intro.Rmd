@@ -3,63 +3,72 @@
 
 ::: {.rmdimportant}
 
-A COVID Classroom
+Like father, like daughter.
 
 :::
 
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
 knitr::include_graphics(("_images/meredith.jpg"))
 ```
 
+# An unexpected influence
+
 ::: {.rmdimportant}
 
-A Learning Management System Nightmare
+Bryce Stewart, PhD, University of York
 
 :::
 
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
 knitr::include_graphics(("_images/bryce.jpg"))
 ```
 
+# Real life case study
 
 ;:: {.rmdimportant}
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+Living it out.
 
 :::
 
-
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
 knitr::include_graphics(("_images/marine.png"))
 ```
 
 :::
 
-
-```{r echo=FALSE, fig.align = 'center'}
-knitr::include_graphics(("_images/benefits.png"))
-```
+# The importance of science, rigor
 
 ;:: {.rmdimportant}
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+Study something you love.  And that tastes great.
 
 :::
 
+```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
+knitr::include_graphics(("_images/benefits.png"))
+```
+
+
+
+
+# Dollars, Pounds, Euros...
+
+::: {.rmdimportant}
+
+It's actually all about economics.
+
+:::
 
 ```{r echo=FALSE, fig.align = 'center'}
 knitr::include_graphics(("_images/brexit.png"))
 ```
 
-;:: {.rmdimportant}
+# A self-serving plug
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+::: {.rmdimportant}
 
-:::
-
-;:: {.rmdimportant}
-
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+Data reveals all.
 
 :::
 
@@ -68,9 +77,11 @@ Concise, Precisely Organized, Frequently Revised Assignments and Schedules
 knitr::include_graphics(("_images/big.jpg"))
 ```
 
-;:: {.rmdimportant}
+# Galapagos Marine Park
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+::: {.rmdimportant}
+
+Rubber meets road.
 
 :::
 
@@ -82,10 +93,10 @@ knitr::include_graphics(("_images/chinese.jpg"))
 
 
 
-# Real life example
+# Next chapter
 
 ::: {.rmdimportant}
 
-It's nice to know exactly what you did when your original data requires wrangling.
+Where does this take you? (and me?)
 
 :::

@@ -3,62 +3,73 @@
 
 ::: {.rmdimportant}
 
-A COVID Classroom
+Like father, like daughter.
 
 :::
 
 <img src="_images/meredith.jpg" style="display: block; margin: auto;" />
 
+# An unexpected influence
+
 ::: {.rmdimportant}
 
-A Learning Management System Nightmare
+Bryce Stewart, PhD, University of York
 
 :::
 
 <img src="_images/bryce.jpg" style="display: block; margin: auto;" />
 
+# Real life case study
 
 ;:: {.rmdimportant}
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+Living it out.
 
 :::
-
 
 <img src="_images/marine.png" style="display: block; margin: auto;" />
 
 :::
 
+# The importance of science, rigor
+
+;:: {.rmdimportant}
+
+Study something you love.  And that tastes great.
+
+:::
 
 <img src="_images/benefits.png" style="display: block; margin: auto;" />
 
-;:: {.rmdimportant}
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+
+
+# Dollars, Pounds, Euros...
+
+::: {.rmdimportant}
+
+It's actually all about economics.
 
 :::
-
 
 <img src="_images/brexit.png" style="display: block; margin: auto;" />
 
-;:: {.rmdimportant}
+# A self-serving plug
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+::: {.rmdimportant}
 
-:::
-
-;:: {.rmdimportant}
-
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+Data reveals all.
 
 :::
 
 
 <img src="_images/big.jpg" style="display: block; margin: auto;" />
 
-;:: {.rmdimportant}
+# Galapagos Marine Park
 
-Concise, Precisely Organized, Frequently Revised Assignments and Schedules
+::: {.rmdimportant}
+
+Rubber meets road.
 
 :::
 
@@ -68,10 +79,10 @@ Concise, Precisely Organized, Frequently Revised Assignments and Schedules
 
 
 
-# Real life example
+# Next chapter
 
 ::: {.rmdimportant}
 
-It's nice to know exactly what you did when your original data requires wrangling.
+Where does this take you? (and me?)
 
 :::

@@ -7,7 +7,7 @@ Like father, like daughter.
 
 :::
 
-```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/meredith.jpg"))
 ```
 
@@ -19,7 +19,7 @@ Bryce Stewart, PhD, University of York
 
 :::
 
-```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/bryce.jpg"))
 ```
 
@@ -31,7 +31,7 @@ Living it out.
 
 :::
 
-```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/marine.png"))
 ```
 
@@ -45,7 +45,7 @@ Study something you love.  And that tastes great.
 
 :::
 
-```{r echo=FALSE, fig.align = 'center', fig.dim = c(8, 6)}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/benefits.png"))
 ```
 
@@ -60,7 +60,7 @@ It's actually all about economics.
 
 :::
 
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/brexit.png"))
 ```
 
@@ -73,7 +73,7 @@ Data reveals all.
 :::
 
 
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/big.jpg"))
 ```
 
@@ -86,7 +86,7 @@ Rubber meets road.
 :::
 
 
-```{r echo=FALSE, fig.align = 'center'}
+```{r echo=FALSE, fig.align = 'center', out.width = '100%'}
 knitr::include_graphics(("_images/chinese.jpg"))
 ```
 
